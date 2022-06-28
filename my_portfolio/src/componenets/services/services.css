@@ -55,7 +55,7 @@
 @media screen and (max-width: 1024px) {
     .service__container{
         grid-template-columns: 1fr 1fr;
-        gap: 2rem;
+        gap: 1.2rem;
     }
 
     .service {
@@ -68,7 +68,7 @@
 @media screen and (max-width: 600px) {
     .service__container{
         grid-template-columns: 1fr;
-        gap: 1.5rem;
+        gap: 1rem;
     }
 
 }
